@@ -1,7 +1,7 @@
 
-# Teste lógico - Imóvel Guide
+# Teste lógico
 
-## ⛔ Contexto da problemática
+## Contexto da problemática
 Quando um anúncio imobiliário fica indisponível, deve-se fornecer aos usuários três opções similares do mesmo tipo de imóvel, na mesma cidade e bairro, utilizando apenas o link do anúncio.
 
 Pede-se para elaborar uma solução para resolver o problema levando em considerações as seguintes **regras**:
